@@ -1,6 +1,8 @@
 name: "Broken Link Checker"
 
-on: push
+on: 
+  schedule:
+    - cron: '59 07 * * *'  #  UTC 7:59(23:59 PST Winter Time) everyday
 
 jobs:
     link_check:
