@@ -54,7 +54,7 @@ def get_all_links(url):
                         parent_links[absolute_url] = url  # Store the parent link
             return links
     except (TimeoutError, socket.timeout):
-        logger.error("Request timed out")
+        logger.error(f"Request timed out for {url}")
     except (urllib.error.HTTPError, urllib.error.URLError) as e:
         logger.error(f"Error while processing {url}: {e}")
         links.add(url)
