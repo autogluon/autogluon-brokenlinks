@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 
 IGNORE_STRINGS_IN_URL = ["twitter", "kaggle.com/code"]
 
+logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("webchecker-logger")
 
 
