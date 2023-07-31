@@ -1,14 +1,16 @@
 import concurrent.futures
-import http
+import logging
 import socket
-from urllib.request import Request, urlopen
 import urllib.error
 from urllib.parse import urljoin, urlparse
+from urllib.request import Request, urlopen
 
 import pandas as pd
 from bs4 import BeautifulSoup
 
 IGNORE_STRINGS_IN_URL = ["twitter", "kaggle.com/code"]
+
+logger = logging.getLogger("webchecker-logger")
 
 
 def add_headers(req):
@@ -39,7 +41,6 @@ def get_all_links(url):
         domain = parsed_start_url.netloc  # this will be "auto.gluon.ai"
         stable_or_dev = parsed_start_url.path.split("/")[1]
         if response.code == 200 and domain + "/" + stable_or_dev in url:
-            # print(url)
             mybytes = response.fp.read()
             html = str(mybytes)
             soup = BeautifulSoup(html, "html.parser")
@@ -53,15 +54,15 @@ def get_all_links(url):
                         parent_links[absolute_url] = url  # Store the parent link
             return links
     except (TimeoutError, socket.timeout):
-        print("Request timed out")
+        logger.error("Request timed out")
     except (urllib.error.HTTPError, urllib.error.URLError) as e:
-        print(f"Error while processing {url}: {e}")
+        logger.error(f"Error while processing {url}: {e}")
         links.add(url)
     return links
 
 
 def check_link_status(link):
-    print(link)
+    logger.info("Testing URL: ", link)
     if link.split(".")[-1] == "ipynb" or any(
         substring in link for substring in IGNORE_STRINGS_IN_URL
     ):
@@ -77,7 +78,7 @@ def check_link_status(link):
         TimeoutError,
         socket.timeout,
     ) as e:
-        print(f"Error while checking {link}: {e}")
+        logger.error(f"Error while checking {link}: {e}")
         return link, str(e)
 
 
