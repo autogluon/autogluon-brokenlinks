@@ -1,5 +1,6 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.NaiveModel ,HTTP Error 403 Forbidden,https://doi.org/10.1057/jors.2010.32
-https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/efficient_finetuning_basic.html ,The read operation timed out,https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/
-https://auto.gluon.ai/dev/api/autogluon.timeseries.TimeSeriesPredictor.html#autogluon.timeseries.TimeSeriesPredictor ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-metrics.html
+https://auto.gluon.ai/dev/api/autogluon.timeseries.TimeSeriesPredictor.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-metrics.html
 https://auto.gluon.ai/dev/whats_new/v0.7.0.html ,HTTP Error 400 Bad Request,https://anaconda.org/conda-forge/autogluon
+https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/efficient_finetuning_basic.html ,The read operation timed out,https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/
+https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.AutoETSModel ,The read operation timed out,https://nixtla.mintlify.app/statsforecast/docs/models/autoces.html
+https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.ZeroModel ,HTTP Error 403 Forbidden,https://doi.org/10.1057/jors.2010.32
