@@ -1,14 +1,13 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/stable/whats_new/v0.6.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/matching/index.html
-https://auto.gluon.ai/stable/cheatsheet.html ,HTTP Error 503 backend read error,https://nbviewer.org/github/innixma/autogluon-doc-utils/blob/main/docs/cheatsheets/stable/timeseries/autogluon-cheat-sheet-ts.pdf
-https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 400 Bad Request,https://anaconda.org/conda-forge/autogluon
-https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/eda/eda-auto-dataset-overview.html
 https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/eda/eda-auto-covariate-shift.html
-https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/document/document_classification.html
-https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/eda/eda-auto-target-analysis.html
 https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/eda/index.html
-https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/eda/eda-auto-analyze-interaction.html#using-interaction-charts-to-learn-information-about-the-data
+https://auto.gluon.ai/stable/whats_new/v0.6.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/matching/index.html
+https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.WaveNetModel ,HTTP Error 403 Forbidden,https://doi.org/10.1057/jors.2010.32
+https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/document/document_classification.html
+https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/eda/eda-auto-dataset-overview.html
+https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 400 Bad Request,https://anaconda.org/conda-forge/autogluon
 https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/document/pdf_classification.html
+https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/eda/eda-auto-analyze-interaction.html#using-interaction-charts-to-learn-information-about-the-data
 https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/eda/eda-auto-anomaly-detection.html
-https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.AutoCESModel ,HTTP Error 403 Forbidden,https://doi.org/10.1057/jors.2010.32
+https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/eda/eda-auto-target-analysis.html
 https://auto.gluon.ai/stable/tutorials/multimodal/multimodal_prediction/multimodal_text_tabular.html ,HTTP Error 522 ,https://www.machinehack.com/hackathons/predict_the_price_of_books/overview
