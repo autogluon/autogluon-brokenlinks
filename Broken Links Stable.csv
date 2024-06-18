@@ -1,30 +1,30 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/stable/whats_new/v1.1.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e1/discussion/472496
-https://auto.gluon.ai/stable/whats_new/v1.1.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e3/discussion/488127
-https://auto.gluon.ai/stable/install.html ,HTTP Error 404 Not Found,https://www.kaggle.com/search?q=autogluon+in%3Anotebooks+sortBy%3Adate
-https://auto.gluon.ai/stable/tutorials/tabular/advanced/tabular-kaggle.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/ieee-fraud-detection/
-https://auto.gluon.ai/stable/tutorials/tabular/advanced/tabular-kaggle.html ,HTTP Error 404 Not Found,https://www.kaggle.com/docs/api
+https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/tensorrt.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/petfinder-adoption-prediction
 https://auto.gluon.ai/stable/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s3e26/discussion/464863
-https://auto.gluon.ai/stable/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/widsdatathon2024-challenge1/discussion/482285
-https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/few_shot_learning.html ,HTTP Error 404 Not Found,https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
-https://auto.gluon.ai/stable/tutorials/tabular/advanced/tabular-kaggle.html ,HTTP Error 404 Not Found,https://www.kaggle.com/general/14438
-https://auto.gluon.ai/stable/whats_new/v0.4.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/mercari-price-suggestion-challenge
-https://auto.gluon.ai/stable/tutorials/multimodal/multimodal_prediction/multimodal-quick-start.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/petfinder-adoption-prediction
 https://auto.gluon.ai/stable/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/search?q=autogluon+sortBy%3Adate
-https://auto.gluon.ai/stable/install.html ,HTTP Error 404 Not Found,https://www.kaggle.com/search?q=autogluon+in%3Adatasets+sortBy%3Adate
-https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/document/pdf_classification.html
-https://auto.gluon.ai/stable/tutorials/multimodal/text_prediction/chinese_ner.html ,HTTP Error 404 Not Found,http://www.statnlp.org/research/ie/zhanming19naacl-ner.pdf
-https://auto.gluon.ai/stable/tutorials/multimodal/object_detection/data_preparation/prepare_pothole.html ,HTTP Error 404 Not Found,https://www.kaggle.com/datasets/andrewmvd/pothole-detection
-https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/object_detection/quick_start/quick_start_ovd.html
-https://auto.gluon.ai/stable/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight/leaderboard
-https://auto.gluon.ai/stable/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e2/discussion/480939
-https://auto.gluon.ai/stable/tutorials/multimodal/image_prediction/beginner_image_cls.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/demo-shopee-iet-competition/data
-https://auto.gluon.ai/stable/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/lukaszl
-https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.ETSModel ,HTTP Error 403 Forbidden,https://doi.org/10.1057/jors.2010.32
-https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 400 Bad Request,https://anaconda.org/conda-forge/autogluon
-https://auto.gluon.ai/stable/tutorials/multimodal/image_prediction/clip_zeroshot.html ,HTTP Error 403 Forbidden,https://openai.com/blog/clip/
-https://auto.gluon.ai/stable/tutorials/multimodal/image_prediction/clip_zeroshot.html ,HTTP Error 403 Forbidden,https://openai.com/blog/multimodal-neurons/
+https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/few_shot_learning.html ,HTTP Error 404 Not Found,https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
+https://auto.gluon.ai/stable/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e1/discussion/472496
 https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/continuous_training.html ,HTTP Error 404 Not Found,http://ixa2.si.ehu.es/stswiki/index.php/STSbenchmark
+https://auto.gluon.ai/stable/whats_new/index.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/object_detection/quick_start/quick_start_ovd.html
 https://auto.gluon.ai/stable/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/byteliberator
 https://auto.gluon.ai/stable/whats_new/v0.6.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/feedback-prize-effectiveness
 https://auto.gluon.ai/stable/tutorials/multimodal/image_segmentation/beginner_semantic_seg.html ,HTTP Error 404 Not Found,https://www.kaggle.com/datasets/sovitrath/leaf-disease-segmentation-with-trainvalid-split
+https://auto.gluon.ai/stable/whats_new/v0.7.0.html ,HTTP Error 400 Bad Request,https://anaconda.org/conda-forge/autogluon
+https://auto.gluon.ai/stable/tutorials/multimodal/image_prediction/clip_zeroshot.html ,HTTP Error 403 Forbidden,https://openai.com/blog/clip/
+https://auto.gluon.ai/stable/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/widsdatathon2024-challenge1/discussion/482285
+https://auto.gluon.ai/stable/tutorials/multimodal/image_prediction/beginner_image_cls.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/demo-shopee-iet-competition/data
+https://auto.gluon.ai/stable/tutorials/multimodal/image_prediction/clip_zeroshot.html ,HTTP Error 403 Forbidden,https://openai.com/blog/multimodal-neurons/
+https://auto.gluon.ai/stable/install.html ,HTTP Error 404 Not Found,https://www.kaggle.com/search?q=autogluon+in%3Adatasets+sortBy%3Adate
+https://auto.gluon.ai/stable/install.html ,HTTP Error 404 Not Found,https://www.kaggle.com/search?q=autogluon+in%3Anotebooks+sortBy%3Adate
+https://auto.gluon.ai/stable/tutorials/multimodal/text_prediction/chinese_ner.html ,HTTP Error 404 Not Found,http://www.statnlp.org/research/ie/zhanming19naacl-ner.pdf
+https://auto.gluon.ai/stable/tutorials/tabular/advanced/tabular-kaggle.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/ieee-fraud-detection/
+https://auto.gluon.ai/stable/whats_new/v1.1.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e3/discussion/488127
+https://auto.gluon.ai/stable/tutorials/multimodal/object_detection/data_preparation/prepare_pothole.html ,HTTP Error 404 Not Found,https://www.kaggle.com/datasets/andrewmvd/pothole-detection
+https://auto.gluon.ai/stable/whats_new/v0.4.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/mercari-price-suggestion-challenge
+https://auto.gluon.ai/stable/whats_new/v1.1.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight/leaderboard
+https://auto.gluon.ai/stable/tutorials/tabular/advanced/tabular-kaggle.html ,HTTP Error 404 Not Found,https://www.kaggle.com/general/14438
+https://auto.gluon.ai/stable/whats_new/v1.1.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/lukaszl
+https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.SeasonalAverageModel ,HTTP Error 403 Forbidden,https://doi.org/10.1057/jors.2010.32
+https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/document/pdf_classification.html
+https://auto.gluon.ai/stable/whats_new/v1.1.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e2/discussion/480939
+https://auto.gluon.ai/stable/tutorials/tabular/advanced/tabular-kaggle.html ,HTTP Error 404 Not Found,https://www.kaggle.com/docs/api
