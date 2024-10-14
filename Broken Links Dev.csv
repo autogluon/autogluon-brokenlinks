@@ -1,52 +1,54 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/dev/tutorials/multimodal/multimodal_prediction/multimodal-quick-start.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/petfinder-adoption-prediction
-https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/byteliberator
-https://auto.gluon.ai/dev/tutorials/multimodal/multimodal_prediction/multimodal_text_tabular.html ,HTTP Error 403 Forbidden,https://machinehack.com/hackathons/predict_the_price_of_books/overview
-https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/widsdatathon2024-challenge1/discussion/482285
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,HTTP Error 403 Forbidden,https://machinehack.com/hackathon/predict_the_price_of_books/overview
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,HTTP Error 403 Forbidden,https://machinehack.com/hackathon/product_sentiment_classification_weekend_hackathon_19/overview
-https://auto.gluon.ai/dev/whats_new/index.html ,The read operation timed out,https://arxiv.org/abs/2203.12119
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,HTTP Error 403 Forbidden,https://openai.com/blog/clip/
-https://auto.gluon.ai/dev/whats_new/index.html ,The read operation timed out,https://arxiv.org/abs/2206.06522
-https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/lukaszl
-https://auto.gluon.ai/dev/tutorials/multimodal/text_prediction/beginner_text.html ,The read operation timed out,https://arxiv.org/abs/1910.03940
-https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/document/pdf_classification.html
-https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s3e26/discussion/464863
-https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/model_distillation.html ,HTTP Error 500 Internal Server Error,https://paperswithcode.com/dataset/qnli
-https://auto.gluon.ai/dev/tutorials/tabular/tabular-indepth.html#specifying-hyperparameters-and-tuning-them ,The read operation timed out,https://arxiv.org/abs/2006.14284
-https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e3/discussion/488127
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.DirectTabularModel ,HTTP Error 403 Forbidden,https://doi.org/10.1057/jors.2010.32
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.ZeroModel ,timed out,http://arxiv.org/abs/2403.07815
-https://auto.gluon.ai/dev/whats_new/v1.0.0.html ,The read operation timed out,https://arxiv.org/pdf/2311.02971.pdf
-https://auto.gluon.ai/dev/whats_new/v1.0.0.html ,The read operation timed out,https://arxiv.org/abs/2305.06090
-https://auto.gluon.ai/dev/whats_new/v1.0.0.html ,The read operation timed out,https://arxiv.org/abs/2304.09148
-https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight/leaderboard
-https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/search?q=autogluon+sortBy%3Adate
-https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e1/discussion/472496
-https://auto.gluon.ai/dev/whats_new/v1.0.0.html ,The read operation timed out,https://arxiv.org/abs/2207.12560
-https://auto.gluon.ai/dev/tutorials/multimodal/text_prediction/chinese_ner.html ,HTTP Error 404 Not Found,http://www.statnlp.org/research/ie/zhanming19naacl-ner.pdf
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/feedback-prize-effectiveness
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/mercari-price-suggestion-challenge
-https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/object_detection/quick_start/quick_start_ovd.html
-https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/continuous_training.html ,HTTP Error 404 Not Found,http://ixa2.si.ehu.es/stswiki/index.php/STSbenchmark
-https://auto.gluon.ai/dev/install.html ,HTTP Error 404 Not Found,https://www.kaggle.com/search?q=autogluon+in%3Anotebooks+sortBy%3Adate
+https://auto.gluon.ai/dev/tutorials/tabular/tabular-multimodal.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/petfinder-adoption-prediction
+https://auto.gluon.ai/dev/tutorials/multimodal/index.html ,HTTP Error 429 Too Many Requests,https://arxiv.org/pdf/2404.16233
 https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,The read operation timed out,https://arxiv.org/pdf/2103.10158.pdf
-https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,The read operation timed out,https://arxiv.org/pdf/1710.09412.pdf
-https://auto.gluon.ai/dev/tutorials/tabular/how-it-works.html ,<urlopen error timed out>,https://web.archive.org/web/20210727094233/http://mlwave.com/kaggle-ensembling-guide/
-https://auto.gluon.ai/dev/whats_new/v0.4.1.html ,HTTP Error 429 Too Many Requests,https://arxiv.org/abs/2106.11959
-https://auto.gluon.ai/dev/whats_new/v0.4.1.html ,The read operation timed out,https://arxiv.org/abs/2003.00152
-https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e2/discussion/480939
-https://auto.gluon.ai/dev/tutorials/tabular/tabular-indepth.html ,HTTP Error 429 Too Many Requests,https://arxiv.org/abs/2003.06505
-https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/few_shot_learning.html ,HTTP Error 404 Not Found,https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
-https://auto.gluon.ai/dev/tutorials/multimodal/image_prediction/clip_zeroshot.html ,HTTP Error 403 Forbidden,https://openai.com/blog/multimodal-neurons/
-https://auto.gluon.ai/dev/whats_new/v0.7.0.html ,HTTP Error 429 Too Many Requests,https://arxiv.org/abs/2111.03930
-https://auto.gluon.ai/dev/tutorials/tabular/advanced/tabular-kaggle.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/ieee-fraud-detection/
-https://auto.gluon.ai/dev/tutorials/multimodal/object_detection/data_preparation/prepare_pothole.html ,HTTP Error 404 Not Found,https://www.kaggle.com/datasets/andrewmvd/pothole-detection
-https://auto.gluon.ai/dev/tutorials/tabular/advanced/tabular-kaggle.html ,HTTP Error 404 Not Found,https://www.kaggle.com/docs/api
-https://auto.gluon.ai/dev/tutorials/multimodal/image_prediction/beginner_image_cls.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/demo-shopee-iet-competition/data
-https://auto.gluon.ai/dev/tutorials/multimodal/image_segmentation/beginner_semantic_seg.html ,HTTP Error 404 Not Found,https://www.kaggle.com/datasets/sovitrath/leaf-disease-segmentation-with-trainvalid-split
-https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/customization.html ,The read operation timed out,https://arxiv.org/abs/1711.05101
+https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,HTTP Error 403 Forbidden,https://machinehack.com/hackathon/predict_the_price_of_books/overview
+https://auto.gluon.ai/dev/tutorials/multimodal/object_detection/advanced/finetune_coco.html ,HTTP Error 404 Not Found,https://www.kaggle.com/datasets/andrewmvd/pothole-detection
+https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/customization.html ,The read operation timed out,https://arxiv.org/pdf/2106.11959v5.pdf
+https://auto.gluon.ai/dev/tutorials/tabular/tabular-indepth.html ,The read operation timed out,https://arxiv.org/abs/2006.14284
+https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,HTTP Error 403 Forbidden,https://openai.com/blog/clip/
+https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,The read operation timed out,https://arxiv.org/abs/2103.00020
+https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/customization.html ,The read operation timed out,https://arxiv.org/pdf/2003.00152.pdf
 https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/customization.html ,The read operation timed out,https://arxiv.org/pdf/2106.11959.pdf
+https://auto.gluon.ai/dev/tutorials/multimodal/image_prediction/clip_zeroshot.html ,HTTP Error 403 Forbidden,https://openai.com/blog/multimodal-neurons/
+https://auto.gluon.ai/dev/whats_new/v0.8.0.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/document/pdf_classification.html
+https://auto.gluon.ai/dev/tutorials/multimodal/image_prediction/beginner_image_cls.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/demo-shopee-iet-competition/data
+https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,HTTP Error 429 Too Many Requests,https://arxiv.org/pdf/1901.11196.pdf
+https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.ChronosModel ,HTTP Error 403 Forbidden,https://doi.org/10.1057/jors.2010.32
+https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,HTTP Error 403 Forbidden,https://machinehack.com/hackathon/product_sentiment_classification_weekend_hackathon_19/overview
+https://auto.gluon.ai/dev/tutorials/multimodal/text_prediction/beginner_text.html ,The read operation timed out,https://arxiv.org/abs/1910.03940
+https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/feedback-prize-effectiveness
+https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight/leaderboard
+https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/widsdatathon2024-challenge1/discussion/482285
+https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/lukaszl
+https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 429 Too Many Requests,https://arxiv.org/abs/2207.12560
+https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e2/discussion/480939
+https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/search?q=autogluon+sortBy%3Adate
+https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s3e26/discussion/464863
+https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e3/discussion/488127
+https://auto.gluon.ai/dev/whats_new/index.html ,The read operation timed out,https://arxiv.org/abs/2401.17868
+https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 429 Too Many Requests,https://arxiv.org/pdf/1905.11946.pdf
+https://auto.gluon.ai/dev/whats_new/index.html ,The read operation timed out,https://arxiv.org/abs/2305.06090
+https://auto.gluon.ai/dev/whats_new/index.html ,The read operation timed out,https://arxiv.org/pdf/2302.03024.pdf
+https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 403 Forbidden,https://auto.gluon.ai/stable/tutorials/multimodal/object_detection/quick_start/quick_start_ovd.html
+https://auto.gluon.ai/dev/api/autogluon.tabular.models.html#autogluon.tabular.models.AbstractModel.save ,The read operation timed out,https://arxiv.org/abs/1803.09820
+https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/continuous_training.html ,HTTP Error 404 Not Found,http://ixa2.si.ehu.es/stswiki/index.php/STSbenchmark
+https://auto.gluon.ai/dev/tutorials/multimodal/multimodal_prediction/multimodal_text_tabular.html ,HTTP Error 403 Forbidden,https://machinehack.com/hackathons/predict_the_price_of_books/overview
+https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/mercari-price-suggestion-challenge
+https://auto.gluon.ai/dev/tutorials/multimodal/text_prediction/multilingual_text.html ,HTTP Error 429 Too Many Requests,https://arxiv.org/pdf/1911.02116.pdf
+https://auto.gluon.ai/dev/whats_new/index.html ,HTTP Error 404 Not Found,https://www.kaggle.com/competitions/playground-series-s4e1/discussion/472496
+https://auto.gluon.ai/dev/tutorials/multimodal/image_segmentation/beginner_semantic_seg.html ,HTTP Error 404 Not Found,https://www.kaggle.com/datasets/sovitrath/leaf-disease-segmentation-with-trainvalid-split
+https://auto.gluon.ai/dev/install.html ,HTTP Error 404 Not Found,https://www.kaggle.com/search?q=autogluon+in%3Anotebooks+sortBy%3Adate
 https://auto.gluon.ai/dev/tutorials/tabular/advanced/tabular-kaggle.html ,HTTP Error 404 Not Found,https://www.kaggle.com/general/14438
+https://auto.gluon.ai/dev/whats_new/v0.7.0.html ,HTTP Error 429 Too Many Requests,https://arxiv.org/abs/2111.03930
+https://auto.gluon.ai/dev/whats_new/v1.1.0.html ,HTTP Error 404 Not Found,https://www.kaggle.com/byteliberator
+https://auto.gluon.ai/dev/tutorials/multimodal/text_prediction/chinese_ner.html ,HTTP Error 404 Not Found,http://www.statnlp.org/research/ie/zhanming19naacl-ner.pdf
+https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/customization.html ,The read operation timed out,https://arxiv.org/abs/2205.05638
+https://auto.gluon.ai/dev/tutorials/tabular/advanced/tabular-kaggle.html ,HTTP Error 404 Not Found,https://www.kaggle.com/c/ieee-fraud-detection/
+https://auto.gluon.ai/dev/tutorials/tabular/advanced/tabular-kaggle.html ,HTTP Error 404 Not Found,https://www.kaggle.com/docs/api
 https://auto.gluon.ai/dev/install.html ,HTTP Error 404 Not Found,https://www.kaggle.com/search?q=autogluon+in%3Adatasets+sortBy%3Adate
+https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,The read operation timed out,https://arxiv.org/abs/2111.02705
+https://auto.gluon.ai/dev/whats_new/index.html ,The read operation timed out,https://arxiv.org/pdf/2212.14453.pdf
+https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/few_shot_learning.html ,HTTP Error 404 Not Found,https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
 https://auto.gluon.ai/dev/whats_new/v0.7.0.html ,HTTP Error 400 Bad Request,https://anaconda.org/conda-forge/autogluon
+https://auto.gluon.ai/dev/whats_new/v0.4.1.html ,The read operation timed out,https://arxiv.org/abs/2003.00152
