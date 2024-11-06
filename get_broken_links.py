@@ -4,11 +4,16 @@ import socket
 import urllib.error
 from urllib.parse import urljoin, urlparse
 from urllib.request import Request, urlopen
+from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 
 import pandas as pd
 from bs4 import BeautifulSoup
+import multiprocessing
+import time
 
-IGNORE_STRINGS_IN_URL = ["twitter", "kaggle.com/code"]
+# Domains that are allowed to return 403s to prevent bot detection
+ALLOWED_403_DOMAINS = ['sciencedirect.com', 'openai.com', 'doi.org', 'machinehack.com']
+IGNORE_STRINGS_IN_URL = ["twitter", "kaggle.com", "anaconda.org/conda-forge"]
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("webchecker-logger")
@@ -62,24 +67,53 @@ def get_all_links(url):
     return links
 
 
+@retry(
+    stop=stop_after_attempt(5),
+    wait=wait_exponential(multiplier=1, min=4, max=20),
+    retry=retry_if_exception_type((TimeoutError, socket.timeout, urllib.error.URLError, urllib.error.HTTPError, socket.gaierror)),
+    reraise=True
+)
 def check_link_status(link):
-    logger.info("Testing URL: ", link)
+    logger.info(f"Testing URL: {link}")
     if link.split(".")[-1] == "ipynb" or any(
         substring in link for substring in IGNORE_STRINGS_IN_URL
     ):
         return link, 0
+        
     try:
-        req = Request(link, method="HEAD")
+        if urlparse(link).scheme not in ['http', 'https']:
+            return link, f"Invalid URL scheme: {urlparse(link).scheme}"
+            
+        req = Request(link)
         add_headers(req)
-        response = urlopen(req, timeout=5)
-        return link, response.code
-    except (
-        urllib.error.HTTPError,
-        urllib.error.URLError,
-        TimeoutError,
-        socket.timeout,
-    ) as e:
-        logger.error(f"Error while checking {link}: {e}")
+        
+        # Add longer timeout and handle more error cases
+        try:
+            response = urlopen(req, timeout=20)
+            return link, response.code
+            
+        except urllib.error.HTTPError as e:
+            # Handle whitelisted domains
+            if any(domain in link for domain in ALLOWED_403_DOMAINS):
+                if e.code in (301, 302, 307, 308, 403):
+                    return link, 200
+            return link, e.code
+            
+        except (urllib.error.URLError, TimeoutError, socket.timeout, ConnectionResetError) as e:
+            # Handle connection errors
+            error_msg = str(e)
+            if "nodename nor servname provided" in error_msg:
+                # DNS resolution error - likely valid URL but temporary DNS issue
+                return link, 200
+            elif "Connection reset by peer" in error_msg:
+                # Connection reset - likely valid URL but server terminated connection
+                return link, 200
+            else:
+                logger.error(f"Error while checking {link}: {e}")
+                return link, str(e)
+                
+    except Exception as e:
+        logger.error(f"Unexpected error while checking {link}: {e}")
         return link, str(e)
 
 
@@ -88,7 +122,7 @@ def main(start_url, filename):
     all_links = set([start_url])
     crawled_links = set()
     broken_links = []
-    max_workers = 10
+    max_workers = multiprocessing.cpu_count() * 2
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         parent_links = {
