@@ -1,5 +1,5 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,403,https://auto.gluon.ai/stable/tutorials/multimodal/document/pdf_classification.html
-https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,403,https://auto.gluon.ai/stable/tutorials/multimodal/object_detection/quick_start/quick_start_ovd.html
-https://auto.gluon.ai/stable/tutorials/multimodal/text_prediction/chinese_ner.html ,404,http://www.statnlp.org/research/ie/zhanming19naacl-ner.pdf
 https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/continuous_training.html ,404,http://ixa2.si.ehu.es/stswiki/index.php/STSbenchmark
+https://auto.gluon.ai/stable/tutorials/multimodal/text_prediction/chinese_ner.html ,404,http://www.statnlp.org/research/ie/zhanming19naacl-ner.pdf
+https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,403,https://auto.gluon.ai/stable/tutorials/multimodal/object_detection/quick_start/quick_start_ovd.html
+https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,403,https://auto.gluon.ai/stable/tutorials/multimodal/document/pdf_classification.html
