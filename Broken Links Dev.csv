@@ -1,2 +1,4 @@
 Origin Webpage,Status Code / Error,URL
+https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/efficient_finetuning_basic.html ,<urlopen error [SSL CERTIFICATE_VERIFY_FAILED] certificate verify failed,https://aclanthology.org/2021.emnlp-main.243.pdf
+https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/efficient_finetuning_basic.html ,<urlopen error [SSL CERTIFICATE_VERIFY_FAILED] certificate verify failed,https://aclanthology.org/2022.acl-short.1.pdf
 https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
