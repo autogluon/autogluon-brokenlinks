@@ -1,4 +1,3 @@
 Origin Webpage,Status Code / Error,URL
 https://auto.gluon.ai/dev/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/dev/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
-https://auto.gluon.ai/dev/tutorials/tabular/tabular-essentials.html ,<urlopen error [Errno 101] Network is unreachable>,https://www.gnu.org/software/wget/
 https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
