@@ -1,5 +1,3 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/stable/tutorials/multimodal/text_prediction/chinese_ner.html ,<urlopen error _ssl.c1130,https://taobao.com
-https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
 https://auto.gluon.ai/stable/tutorials/multimodal/text_prediction/multilingual_text.html ,404,https://www.deepset.ai/german-bert
-https://auto.gluon.ai/stable/tutorials/tabular/tabular-essentials.html ,<urlopen error [Errno 101] Network is unreachable>,https://www.gnu.org/software/wget/
+https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
