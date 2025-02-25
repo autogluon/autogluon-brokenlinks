@@ -1,10 +1,4 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/dev/tutorials/tabular/tabular-essentials.html ,<urlopen error [Errno 101] Network is unreachable>,https://www.gnu.org/software/wget/
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.MSE ,<urlopen error timed out>,https://otexts.com/fpp3/accuracy.html#scale-dependent-errors
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.MSE ,<urlopen error timed out>,https://otexts.com/fpp3/distaccuracy.html#quantile-scores
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.MSE ,<urlopen error timed out>,https://otexts.com/fpp3/accuracy.html#scaled-errors
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.MSE ,<urlopen error timed out>,https://robjhyndman.com/publications/another-look-at-measures-of-forecast-accuracy/
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.MSE ,<urlopen error timed out>,https://otexts.com/fpp3/accuracy.html#percentage-errors
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.AutoETSModel ,<urlopen error timed out>,https://otexts.com/fpp3/prediction-intervals.html
-https://auto.gluon.ai/dev/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/dev/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
 https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
+https://auto.gluon.ai/dev/tutorials/tabular/tabular-essentials.html ,<urlopen error [Errno 101] Network is unreachable>,https://www.gnu.org/software/wget/
+https://auto.gluon.ai/dev/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/dev/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
