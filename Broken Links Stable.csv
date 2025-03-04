@@ -1,2 +1,3 @@
 Origin Webpage,Status Code / Error,URL
+https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/efficient_finetuning_basic.html ,The read operation timed out,https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/
 https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
