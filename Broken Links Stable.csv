@@ -1,8 +1,4 @@
 Origin Webpage,Status Code / Error,URL
+https://auto.gluon.ai/stable/tutorials/tabular/tabular-indepth.html ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
 https://auto.gluon.ai/stable/tutorials/tabular/tabular-indepth.html ,404,https://christophm.github.io/interpretable-ml-book/taxonomy-of-interpretability-methods.html
-https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.AutoETSModel ,The read operation timed out,https://huggingface.co/autogluon/
-https://auto.gluon.ai/stable/tutorials/tabular/tabular-indepth.html#specifying-hyperparameters-and-tuning-them ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
-https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/model_distillation.html ,500,https://huggingface.co/google/bert_uncased_L-6_H-768_A-12
-https://auto.gluon.ai/stable/tutorials/multimodal/document_prediction/document_classification.html ,500,https://huggingface.co/datasets/rvl_cdip
-https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/model_distillation.html ,500,https://huggingface.co/google/bert_uncased_L-12_H-768_A-12
 https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
