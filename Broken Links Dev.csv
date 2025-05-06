@@ -1,12 +1,13 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-metrics.html ,429,https://github.com/autogluon/autogluon/blob/master/timeseries/src/autogluon/timeseries/metrics/point.py
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.MAPE ,429,https://github.com/autogluon/autogluon/blob/master/timeseries/src/autogluon/timeseries/metrics/quantile.py
 https://auto.gluon.ai/dev/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/dev/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
-https://auto.gluon.ai/dev/install.html ,429,https://github.com/aws/sagemaker-distribution/blob/main/build_artifacts/v1/v1.4/v1.4.2/RELEASE.md
-https://auto.gluon.ai/dev/whats_new/index.html ,429,https://github.com/autogluon/autogluon/blob/master/AWESOME.md#competition-solutions-using-autogluon
+https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=jqLvFdIAAAAJ&amp;hl=en
+https://auto.gluon.ai/dev/whats_new/v0.8.0.html ,404,https://github.com/zhiqaingdon
 https://auto.gluon.ai/dev/tutorials/tabular/tabular-indepth.html ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
-https://auto.gluon.ai/dev/api/autogluon.timeseries.TimeSeriesPredictor.fit.html ,429,https://github.com/autogluon/autogluon/blob/stable/timeseries/src/autogluon/timeseries/models/presets.py
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,429,https://github.com/autogluon/autogluon/blob/master/ROADMAP.md
-https://auto.gluon.ai/dev/whats_new/index.html ,404,https://github.com/zhiqaingdon
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,404,https://github.com/truebluejason
+https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-faq.html ,403,https://stats.stackexchange.com/a/365394/134754
+https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=T5rHY14AAAAJ&amp;hl=ko
+https://auto.gluon.ai/dev/tutorials/timeseries/advanced/forecasting-custom-model.html ,429,https://github.com/autogluon/autogluon/blob/master/timeseries/src/autogluon/timeseries/models/abstract/abstract_timeseries_model.py
+https://auto.gluon.ai/dev/whats_new/v1.0.0.html ,429,https://github.com/autogluon/autogluon/blob/1.0.0/tabular/src/autogluon/tabular/configs/zeroshot/zeroshot_portfolio_2023.py
+https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-indepth.html ,429,https://github.com/autogluon/autogluon/blob/stable/timeseries/src/autogluon/timeseries/models/presets.py#L109
+https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.AutoARIMAModel ,429,https://github.com/amazon-science/chronos-forecasting/blob/main/src/chronos/chronos.py
 https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
+https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,404,https://github.com/truebluejason
