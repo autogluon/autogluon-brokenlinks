@@ -1,14 +1,15 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/stable/tutorials/tabular/tabular-indepth.html ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
-https://auto.gluon.ai/stable/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=T5rHY14AAAAJ&amp;hl=ko
-https://auto.gluon.ai/stable/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=jqLvFdIAAAAJ&amp;hl=en
-https://auto.gluon.ai/stable/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/stable/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
 https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,404,https://github.com/zhiqaingdon
-https://auto.gluon.ai/stable/tutorials/tabular/tabular-essentials.html ,<urlopen error [Errno 101] Network is unreachable>,https://www.gnu.org/software/wget/
-https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
-https://auto.gluon.ai/stable/whats_new/v1.3.0.html ,429,https://github.com/autogluon/autogluon/blob/2b90eb0f4a848941d70cd387c2fdec67bc67706d/multimodal/src/autogluon/multimodal/learners/ensemble.py#L306-L322
-https://auto.gluon.ai/stable/whats_new/v0.4.0.html ,404,https://github.com/truebluejason
+https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.WQL ,429,https://github.com/autogluon/autogluon/blob/master/timeseries/src/autogluon/timeseries/metrics/point.py
+https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.WQL ,429,https://github.com/awslabs/gluonts/blob/dev/src/gluonts/torch/distributions/quantile_output.py
+https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.WQL ,429,https://github.com/awslabs/gluonts/blob/dev/src/gluonts/torch/distributions/output.py
+https://auto.gluon.ai/stable/tutorials/multimodal/semantic_matching/text_semantic_search.html ,429,https://github.com/pytorch/pytorch/blob/4262c8913c2bddb8d91565888b4871790301faba/aten/src/ATen/native/cuda/TensorTopK.cu#L92-L121
 https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-faq.html ,403,https://stats.stackexchange.com/a/365394/134754
-https://auto.gluon.ai/stable/tutorials/timeseries/advanced/forecasting-custom-model.html ,429,https://github.com/autogluon/autogluon/blob/master/timeseries/src/autogluon/timeseries/models/abstract/abstract_timeseries_model.py
-https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/model_distillation.html ,429,https://github.com/autogluon/autogluon/tree/master/examples/automm/distillation/automm_distillation_pawsx.py
-https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/customization.html ,429,https://github.com/rwightman/pytorch-image-models/blob/d30685c283137b4b91ea43c4e595c964cd2cb6f0/timm/data/mixup.py#L211-L216
+https://auto.gluon.ai/stable/versions.html ,403,https://auto.gluon.ai/1.1.1/index.html
+https://auto.gluon.ai/stable/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/stable/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
+https://auto.gluon.ai/stable/tutorials/tabular/tabular-indepth.html#decision-threshold-calibration ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
+https://auto.gluon.ai/stable/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=T5rHY14AAAAJ&amp;hl=ko
+https://auto.gluon.ai/stable/whats_new/v0.4.0.html ,404,https://github.com/truebluejason
+https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
+https://auto.gluon.ai/stable/whats_new/index.html ,403,https://scholar.google.com/citations?user=jqLvFdIAAAAJ&amp;hl=en
+https://auto.gluon.ai/stable/whats_new/index.html ,429,https://github.com/autogluon/autogluon/blob/1.0.0/tabular/src/autogluon/tabular/configs/zeroshot/zeroshot_portfolio_2023.py
