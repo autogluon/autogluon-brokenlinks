@@ -1,17 +1,14 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-faq.html ,403,https://stats.stackexchange.com/a/365394/134754
-https://auto.gluon.ai/dev/tutorials/timeseries/advanced/forecasting-custom-model.html ,429,https://github.com/autogluon/autogluon/blob/master/timeseries/src/autogluon/timeseries/models/abstract/abstract_timeseries_model.py
-https://auto.gluon.ai/dev/index.html ,429,https://github.com/autogluon/autogluon/blob/master/CITING.md
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-metrics.html#forecasting-metrics ,429,https://github.com/awslabs/gluonts/blob/dev/src/gluonts/torch/distributions/distribution_output.py
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.SMAPE ,429,https://github.com/autogluon/autogluon/blob/master/timeseries/src/autogluon/timeseries/metrics/quantile.py
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.SQL ,429,https://github.com/autogluon/autogluon/blob/master/timeseries/src/autogluon/timeseries/metrics/point.py
-https://auto.gluon.ai/dev/whats_new/index.html ,403,https://scholar.google.com/citations?user=T5rHY14AAAAJ&amp;hl=ko
-https://auto.gluon.ai/dev/tutorials/tabular/tabular-essentials.html ,<urlopen error [Errno 101] Network is unreachable>,https://www.gnu.org/software/wget/
 https://auto.gluon.ai/dev/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/dev/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
-https://auto.gluon.ai/dev/tutorials/tabular/advanced/tabular-custom-metric.html ,429,https://github.com/autogluon/autogluon/blob/master/core/src/autogluon/core/metrics/__init__.py
+https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/model_distillation.html ,502,https://paperswithcode.com/dataset/qnli
+https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/model_distillation.html ,429,https://github.com/autogluon/autogluon/tree/master/examples/automm/distillation/automm_distillation_pawsx.py
+https://auto.gluon.ai/dev/whats_new/v0.8.0.html ,404,https://github.com/zhiqaingdon
 https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,404,https://github.com/truebluejason
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,Remote end closed connection without response,https://github.com/autogluon/autogluon-assistant/
+https://auto.gluon.ai/dev/tutorials/tabular/tabular-indepth.html#specifying-hyperparameters-and-tuning-them ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
+https://auto.gluon.ai/dev/whats_new/v1.0.0.html ,The read operation timed out,https://github.com/autogluon/autogluon/pull/3588
+https://auto.gluon.ai/dev/whats_new/v1.1.0.html ,Remote end closed connection without response,https://github.com/autogluon/autogluon/pull/3837
+https://auto.gluon.ai/dev/tutorials/tabular/tabular-essentials.html ,<urlopen error [Errno 101] Network is unreachable>,https://www.gnu.org/software/wget/
 https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
-https://auto.gluon.ai/dev/whats_new/index.html ,404,https://github.com/zhiqaingdon
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=jqLvFdIAAAAJ&amp;hl=en
-https://auto.gluon.ai/dev/tutorials/tabular/tabular-indepth.html ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
+https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-faq.html ,403,https://stats.stackexchange.com/a/365394/134754
+https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/continuous_training.html ,502,https://paperswithcode.com/dataset/sts-benchmark?t
+https://auto.gluon.ai/dev/tutorials/multimodal/text_prediction/beginner_text.html ,502,https://paperswithcode.com/dataset/sts-benchmark

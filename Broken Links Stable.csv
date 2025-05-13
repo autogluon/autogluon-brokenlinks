@@ -1,13 +1,14 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-metrics.html#autogluon.timeseries.metrics.MSE ,429,https://github.com/autogluon/autogluon/blob/master/timeseries/src/autogluon/timeseries/metrics/point.py
-https://auto.gluon.ai/stable/tutorials/multimodal/semantic_matching/text_semantic_search.html ,429,https://github.com/pytorch/pytorch/blob/4262c8913c2bddb8d91565888b4871790301faba/aten/src/ATen/native/cuda/TensorTopK.cu#L92-L121
-https://auto.gluon.ai/stable/install.html ,429,https://github.com/aws/sagemaker-distribution/blob/main/build_artifacts/v1/v1.4/v1.4.2/RELEASE.md
-https://auto.gluon.ai/stable/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/stable/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
-https://auto.gluon.ai/stable/whats_new/index.html ,403,https://scholar.google.com/citations?user=T5rHY14AAAAJ&amp;hl=ko
-https://auto.gluon.ai/stable/whats_new/index.html ,404,https://github.com/zhiqaingdon
+https://auto.gluon.ai/stable/tutorials/tabular/tabular-indepth.html ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
 https://auto.gluon.ai/stable/tutorials/tabular/tabular-essentials.html ,<urlopen error [Errno 101] Network is unreachable>,https://www.gnu.org/software/wget/
-https://auto.gluon.ai/stable/whats_new/index.html ,403,https://scholar.google.com/citations?user=jqLvFdIAAAAJ&amp;hl=en
+https://auto.gluon.ai/stable/tutorials/multimodal/text_prediction/beginner_text.html ,502,https://paperswithcode.com/dataset/sts-benchmark
 https://auto.gluon.ai/stable/whats_new/v0.4.0.html ,404,https://github.com/truebluejason
-https://auto.gluon.ai/stable/tutorials/tabular/tabular-indepth.html#decision-threshold-calibration ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
+https://auto.gluon.ai/stable/api/autogluon.timeseries.TimeSeriesPredictor.fit.html ,429,https://github.com/autogluon/autogluon/blob/stable/timeseries/src/autogluon/timeseries/models/presets.py
+https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/model_distillation.html ,502,https://paperswithcode.com/dataset/qnli
+https://auto.gluon.ai/stable/whats_new/index.html ,404,https://github.com/zhiqaingdon
 https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
+https://auto.gluon.ai/stable/cheatsheet.html ,503,https://nbviewer.org/github/innixma/autogluon-doc-utils/blob/main/docs/cheatsheets/stable/timeseries/autogluon-cheat-sheet-ts.pdf
+https://auto.gluon.ai/stable/cheatsheet.html ,503,https://nbviewer.org/github/Innixma/autogluon-doc-utils/blob/main/docs/cheatsheets/stable/autogluon-cheat-sheet.pdf
+https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/continuous_training.html ,502,https://paperswithcode.com/dataset/sts-benchmark?t
+https://auto.gluon.ai/stable/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/stable/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
 https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-faq.html ,403,https://stats.stackexchange.com/a/365394/134754
