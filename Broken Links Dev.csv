@@ -1,10 +1,10 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/dev/tutorials/tabular/tabular-essentials.html ,<urlopen error [Errno 101] Network is unreachable>,https://www.gnu.org/software/wget/
-https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
-https://auto.gluon.ai/dev/whats_new/index.html ,403,https://scholar.google.com/citations?user=T5rHY14AAAAJ&amp;hl=ko
-https://auto.gluon.ai/dev/whats_new/index.html ,403,https://scholar.google.com/citations?user=jqLvFdIAAAAJ&amp;hl=en
-https://auto.gluon.ai/dev/whats_new/index.html ,404,https://github.com/zhiqaingdon
 https://auto.gluon.ai/dev/tutorials/tabular/tabular-indepth.html ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
 https://auto.gluon.ai/dev/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/dev/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-faq.html ,403,https://stats.stackexchange.com/a/365394/134754
+https://auto.gluon.ai/dev/tutorials/tabular/tabular-essentials.html ,<urlopen error [Errno 101] Network is unreachable>,https://www.gnu.org/software/wget/
 https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,404,https://github.com/truebluejason
+https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-faq.html ,403,https://stats.stackexchange.com/a/365394/134754
+https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=T5rHY14AAAAJ&amp;hl=ko
+https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=jqLvFdIAAAAJ&amp;hl=en
+https://auto.gluon.ai/dev/whats_new/index.html ,404,https://github.com/zhiqaingdon
+https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
