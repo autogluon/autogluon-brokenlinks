@@ -1,19 +1,15 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/stable/tutorials/multimodal/document_prediction/document_classification.html ,404,https://huggingface.co/datasets/rvl_cdip
-https://auto.gluon.ai/stable/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/stsb_multi_mt
-https://auto.gluon.ai/stable/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/amazon_reviews_multi
 https://auto.gluon.ai/stable/whats_new/v0.4.0.html ,404,https://github.com/truebluejason
-https://auto.gluon.ai/stable/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/stable/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
-https://auto.gluon.ai/stable/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/paws-x
 https://auto.gluon.ai/stable/whats_new/v0.8.0.html ,404,https://github.com/zhiqaingdon
-https://auto.gluon.ai/stable/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=jqLvFdIAAAAJ&amp;hl=en
+https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/continuous_training.html ,500,https://paperswithcode.com/dataset/sts-benchmark?t
+https://auto.gluon.ai/stable/tutorials/timeseries/advanced/index.html ,403,https://auto.gluon.ai/stable/tutorials/timeseries/advanced/advanced/forecasting-custom-model.html
 https://auto.gluon.ai/stable/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=T5rHY14AAAAJ&amp;hl=ko
-https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
-https://auto.gluon.ai/stable/tutorials/multimodal/text_prediction/chinese_ner.html ,<urlopen error _ssl.c1130,https://aclanthology.org/N19-1079.pdf
-https://auto.gluon.ai/stable/tutorials/tabular/tabular-essentials.html ,<urlopen error [Errno 101] Network is unreachable>,https://www.gnu.org/software/wget/
-https://auto.gluon.ai/stable/tutorials/tabular/tabular-indepth.html#decision-threshold-calibration ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
-https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/efficient_finetuning_basic.html ,<urlopen error _ssl.c1130,https://aclanthology.org/2022.acl-short.1.pdf
-https://auto.gluon.ai/stable/versions.html ,403,https://auto.gluon.ai/1.3.0/index.html
-https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/model_distillation.html ,500,https://paperswithcode.com/dataset/qnli
-https://auto.gluon.ai/stable/tutorials/multimodal/advanced_topics/continuous_training.html ,525,https://paperswithcode.com/dataset/sts-benchmark?t
+https://auto.gluon.ai/stable/tutorials/tabular/tabular-indepth.html ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
+https://auto.gluon.ai/stable/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=jqLvFdIAAAAJ&amp;hl=en
+https://auto.gluon.ai/stable/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/paws-x
+https://auto.gluon.ai/stable/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/amazon_reviews_multi
+https://auto.gluon.ai/stable/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/stsb_multi_mt
 https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-faq.html ,403,https://stats.stackexchange.com/a/365394/134754
+https://auto.gluon.ai/stable/versions.html ,403,https://auto.gluon.ai/1.3.0/index.html
+https://auto.gluon.ai/stable/tutorials/multimodal/document_prediction/document_classification.html ,404,https://huggingface.co/datasets/rvl_cdip
+https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/stable/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
