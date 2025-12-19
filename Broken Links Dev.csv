@@ -1,103 +1,16 @@
 Origin Webpage,Status Code / Error,URL
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4694
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4632
-https://auto.gluon.ai/dev/whats_new/v1.4.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/5184
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,<urlopen error timed out>,https://github.com/autogluon/tabrepo
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=jqLvFdIAAAAJ&amp;hl=en
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4290
-https://auto.gluon.ai/dev/whats_new/v1.1.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3977
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4420
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4333
-https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/amazon_reviews_multi
-https://auto.gluon.ai/dev/whats_new/v1.4.0.html ,403,https://scholar.google.com/citations?user=4ITkr_kAAAAJ&amp;hl=en
-https://auto.gluon.ai/dev/whats_new/v1.1.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4066
-https://auto.gluon.ai/dev/tutorials/multimodal/advanced_topics/tensorrt.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/tree/master/examples/automm
-https://auto.gluon.ai/dev/tutorials/multimodal/multimodal_prediction/multimodal_ner.html ,<urlopen error timed out>,https://github.com/jefferyYu/UMT/tree/master
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,<urlopen error timed out>,https://github.com/nathanaelbosch
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2219
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2417
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2389
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/1958
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2300
-https://auto.gluon.ai/dev/tutorials/tabular/tabular-indepth.html#specifying-hyperparameters-and-tuning-them ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,403,https://scholar.google.com/citations?user=T5rHY14AAAAJ&amp;hl=ko
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4272
-https://auto.gluon.ai/dev/whats_new/v1.1.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3893
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2357
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2418
-https://auto.gluon.ai/dev/whats_new/v1.2.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4690
-https://auto.gluon.ai/dev/whats_new/v1.1.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3900
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2361
-https://auto.gluon.ai/dev/whats_new/v1.0.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3563
-https://auto.gluon.ai/dev/whats_new/v1.0.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/blob/master/tabular/src/autogluon/tabular/configs/zeroshot/zeroshot_portfolio_2023.py
-https://auto.gluon.ai/dev/whats_new/v1.1.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3837
-https://auto.gluon.ai/dev/whats_new/v1.1.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4022
-https://auto.gluon.ai/dev/whats_new/v1.0.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3537
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2095
-https://auto.gluon.ai/dev/whats_new/v0.4.1.html ,<urlopen error timed out>,https://github.com/willsmithorg
-https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/1847
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4714
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/blob/2b90eb0f4a848941d70cd387c2fdec67bc67706d/multimodal/src/autogluon/multimodal/learners/ensemble.py#L306-L322
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3158
-https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/1792
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4399
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2213
-https://auto.gluon.ai/dev/whats_new/v1.3.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4925
-https://auto.gluon.ai/dev/whats_new/v1.3.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4974
-https://auto.gluon.ai/dev/whats_new/v1.3.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4905
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/5216
-https://auto.gluon.ai/dev/tutorials/multimodal/index.html ,<urlopen error timed out>,https://github.com/rwightman/pytorch-image-models
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4023
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3180
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/dholzmueller
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4407
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3094
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2421
-https://auto.gluon.ai/dev/whats_new/v0.6.2.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2595
-https://auto.gluon.ai/dev/whats_new/v0.6.2.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2653
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3290
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3185
-https://auto.gluon.ai/dev/whats_new/v1.3.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4944
-https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/stsb_multi_mt
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3698
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-indepth.html ,403,https://auto.gluon.ai/stable/api/autogluon.timeseries.TimeSeriesPredictor.backtest_targets.html
-https://auto.gluon.ai/dev/whats_new/v1.3.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4773
-https://auto.gluon.ai/dev/api/autogluon.tabular.TabularPredictor.simulation_artifact.html#autogluon.tabular.TabularPredictor.simulation_artifact ,404,https://github.com/autogluon/tabrepo/blob/main/examples/run_quickstart_from_scratch.py
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/1541
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/1395
-https://auto.gluon.ai/dev/whats_new/index.html ,403,https://scholar.google.com/citations?user=7k_1QFIAAAAJ&amp;hl=en
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-model-zoo.html#autogluon.timeseries.models.ThetaModel ,<urlopen error timed out>,https://github.com/DataDog/toto
-https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/paws-x
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,404,https://github.com/truebluejason
-https://auto.gluon.ai/dev/whats_new/v0.4.1.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/1020
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/adibiasio
-https://auto.gluon.ai/dev/tutorials/multimodal/document_prediction/index.html ,<urlopen error timed out>,https://github.com/UB-Mannheim/tesseract/wiki
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3289
-https://auto.gluon.ai/dev/whats_new/v0.7.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2782
-https://auto.gluon.ai/dev/whats_new/v0.7.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2735
-https://auto.gluon.ai/dev/whats_new/v0.7.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2927
-https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
-https://auto.gluon.ai/dev/tutorials/multimodal/document_prediction/document_classification.html ,404,https://huggingface.co/datasets/rvl_cdip
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/1516
-https://auto.gluon.ai/dev/whats_new/v0.7.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2906
-https://auto.gluon.ai/dev/whats_new/v1.3.0.html ,<urlopen error timed out>,https://github.com/timostrunk
-https://auto.gluon.ai/dev/whats_new/v0.7.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2800
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/1328
-https://auto.gluon.ai/dev/whats_new/v1.3.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/5091
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2186
-https://auto.gluon.ai/dev/whats_new/v0.4.1.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/1618
-https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,404,https://github.com/autogluon/autogluon/blob/master/ROADMAP.md
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4663
-https://auto.gluon.ai/dev/whats_new/v1.1.1.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4166
-https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/1752
-https://auto.gluon.ai/dev/whats_new/v1.3.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4901
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2393
-https://auto.gluon.ai/dev/whats_new/v0.6.1.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2468
-https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-indepth.html ,403,https://auto.gluon.ai/stable/api/autogluon.timeseries.TimeSeriesPredictor.backtest_predictions.html
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2363
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2340
-https://auto.gluon.ai/dev/whats_new/v0.6.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2362
+https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error [Errno -3] Temporary failure in name resolution>,https://segment-anything.com/
 https://auto.gluon.ai/dev/whats_new/v0.8.0.html ,404,https://github.com/zhiqaingdon
-https://auto.gluon.ai/dev/whats_new/v0.7.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/2769
-https://auto.gluon.ai/dev/whats_new/v0.8.0.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/3286
-https://auto.gluon.ai/dev/whats_new/index.html ,<urlopen error timed out>,https://github.com/autogluon/autogluon/pull/4444
+https://auto.gluon.ai/dev/tutorials/multimodal/document_prediction/document_classification.html ,404,https://huggingface.co/datasets/rvl_cdip
+https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,404,https://github.com/autogluon/autogluon/blob/master/ROADMAP.md
+https://auto.gluon.ai/dev/api/autogluon.timeseries.TimeSeriesPredictor.fit.html#autogluon.timeseries.TimeSeriesPredictor.fit ,404,https://github.com/autogluon/autogluon/blob/stable/timeseries/src/autogluon/timeseries/configs/hyperparameter_presets.py
+https://auto.gluon.ai/dev/api/autogluon.tabular.TabularPredictor.simulation_artifact.html#autogluon.tabular.TabularPredictor.simulation_artifact ,404,https://github.com/autogluon/tabrepo/blob/main/examples/run_quickstart_from_scratch.py
+https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/paws-x
+https://auto.gluon.ai/dev/api/autogluon.timeseries.TimeSeriesPredictor.fit.html#autogluon.timeseries.TimeSeriesPredictor.fit ,404,https://github.com/autogluon/autogluon/blob/stable/timeseries/src/autogluon/timeseries/configs/predictor_presets.py
+https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/stsb_multi_mt
+https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/hyperparameter_optimization.ipynb.txt ,403,"https://auto.gluon.ai/dev/_sources/tutorials/multimodal/advanced_topics/\\""https:/docs.ray.io/en/latest/train/api/doc/ray.train.CheckpointConfig.html#ray.train.CheckpointConfig\\"""
+https://auto.gluon.ai/dev/tutorials/tabular/tabular-indepth.html ,403,https://dl.acm.org/doi/pdf/10.1145/3236386.3241340
+https://auto.gluon.ai/dev/whats_new/v0.5.1.html ,404,https://huggingface.co/datasets/amazon_reviews_multi
+https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-indepth.html ,403,https://auto.gluon.ai/stable/api/autogluon.timeseries.TimeSeriesPredictor.backtest_predictions.html
+https://auto.gluon.ai/dev/tutorials/timeseries/forecasting-indepth.html ,403,https://auto.gluon.ai/stable/api/autogluon.timeseries.TimeSeriesPredictor.backtest_targets.html
+https://auto.gluon.ai/dev/whats_new/v0.4.0.html ,404,https://github.com/truebluejason
