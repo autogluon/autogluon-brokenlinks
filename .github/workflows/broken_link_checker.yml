@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '59 07 * * *'  #  UTC 7:59(23:59 PST Winter Time) everyday
 
+permissions:
+  contents: write
+
 jobs:
     link_check:
         runs-on: ubuntu-latest
